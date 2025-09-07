@@ -15,6 +15,8 @@ A sophisticated RAG (Retrieval-Augmented Generation) system for enterprise docum
 - **⚡ Batch Processing**: Handles large document sets efficiently
 - **🏗️ Professional Architecture**: Clean, modular, and well-documented code
 
+![Project Screenshot](./assets/application.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
